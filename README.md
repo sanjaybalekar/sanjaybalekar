@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sanjay Balekar
+- 👋 Hi, I’m Sanjay Balikar
 - 👀 I’m interested in python,Data Science, machine leaarning
 - 🌱 I’m currently learning  Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
