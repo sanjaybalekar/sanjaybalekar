@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Sanjay Balekar
-- 👀 I’m interested in python,Data Science, machine leaarning
-- 🌱 I’m currently learning  Artificial Intelligence
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- # Hi, I’m Sanjay Balekar and I am avid learner
+- ## I’m interested in Python,Data Science, Machine Learning
+-  I’m currently learning  Artificial Intelligence
+
+- ## What do I do for Fun?
+- I love Swimming.
 
 <!---
 sanjaybalekar/sanjaybalekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
