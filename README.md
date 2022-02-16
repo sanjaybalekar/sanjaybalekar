@@ -1,5 +1,5 @@
 
-- # Hi, I’m Sanjay Balekar and I am avid learner
+- # Hi, I’m Sanjay Balikar and I am avid learner
 - ## Data Science Enthusiast
 - ## Passionate about deep knowledge of Machine Learning, Python, SQL
 -  I’m currently learning  Artificial Intelligence
